@@ -12,13 +12,32 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
+## I'm Sunshine-hx
+
+* 苏州经贸职业技术学院软件专业学渣,
+
+* ⚡勇往直前,活在当下
+
+* 因"Don't stove"而饥荒,因"Oxygen Not included"而缺氧,
+
+* java小菜鸡,python没爬虫
+
+* 冲在码的前线,
+
+* 相信未来光明,信念努力的痕迹💪
+
+  ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Sunshine-hx&show_icons=true&theme=radical)
+
+  <div align=right>
+      <img src=./meizi.jpg  width=500px></div>
+
+  ---
+
+  
+
+  
 
 
 
-### ⚙️ GitHub分析
-
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=梦想飞往全世界de猪&show_icons=true&theme=radical)
-
-[![img](https://camo.githubusercontent.com/0895e327d2dd627b74b25f97c5152c92c6207cd035ddaf456053cc271eec40dd/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d41565331353038266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961)](https://github.com/moreSunshine-hx)
