@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 * 相信未来光明,信念努力的痕迹💪
 
-![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=moreSunshine-hx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreSunshine-hx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreSunshine-hx&layout=compact)![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=moreSunshine-hx&show_icons=true&theme=radical)
+
 <div align=center>
     <img src="./picuture.png">
 </div>
